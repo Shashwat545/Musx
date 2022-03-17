@@ -11,7 +11,7 @@ for(const file of interactions) {
 };
 console.log(`Loading commands....`);
 readFile('./commands/').forEach(dirs=>{
-    const commands=readFile(`./commands/${dirs}`.filter(files=>files.endsWith('.js'));
+    const commands=readFile(`./commands/${dirs}`).filter(files=>files.endsWith('.js'));
     for(const file of commands) {
         const command=require(`../commands/${dirs}/${file}`);
         console.log(`• Loaded command ${command.name.toLowerCase()}`);

@@ -12,5 +12,5 @@ global.client=new Client({
 client.config=require('./config');
 global.player=new Player(client, client.config.opt.discordPlayer);
 require('./assets/preloader');
-require('.assets/messages');
+require('./assets/messages');
 client.login(client.config.app.token);
