@@ -2,6 +2,7 @@
   "name": "musk",
   "version": "1.0.0",
   "description": "Music bot for discord",
+  "repository": "https://github.com/Shashwat545/Musx.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
