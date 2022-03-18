@@ -5,7 +5,7 @@ module.exports=(client, message)=>{
     if(message.content.indexOf(prefix)!==0)
         return;
     const query=message.content.slice(prefix.length).trim().split(/ +/g);
-    const command=query.shift().toLowercase();
+    const command=query.shift().toLowerCase();
     const cmd=client.commands.get(command)||client.commands.find(cmd=>cmd.aliases && cmd.aliases.includes(command));
     if(cmd && cmd.voiceChannel) {
         if(!message.member.voice.channel)
