@@ -1,7 +1,13 @@
 module.exports={
     app:{
-        px:'!',
+        prefix:'!',
         token:'',
-        playing:'your favourite music by Shashwat ❤️'
+        playing:'your favourite music by Shashwat ❤️',
+        discordPlayer:{
+            ytdlOptions:{
+                quality:'highestaudio',
+                highWaterMark:1<<25
+            }
+        }
     }
 };
