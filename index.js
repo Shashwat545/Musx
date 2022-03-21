@@ -1,5 +1,6 @@
 const {Client, Intents}=require('discord.js');
 const {Player}=require('discord-player');
+require('dotenv').config();
 global.client=new Client({
     intents: [
         Intents.FLAGS.GUILDS,
