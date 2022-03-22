@@ -2,7 +2,6 @@ const {MessageEmbed}=require('discord.js');
 module.exports={
     name:'help',
     aliases:[],
-    utilisation:'{prefix}help',
     execute(client, message){
         const msg=new MessageEmbed();
         msg.setColor('BLUE');
