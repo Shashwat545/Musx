@@ -5,7 +5,7 @@
   "repository": "https://github.com/Shashwat545/Musx.git",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "engines": {
     "node": ">=16.6.0"
