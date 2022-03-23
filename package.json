@@ -17,8 +17,7 @@
     "ffmpeg-static": "^4.4.0",
     "ms": "^3.0.0-canary.1",
     "opusscript": "^0.0.8",
-    "express": "^4.17.3",
-    "path": "^0.12.7"
+    "express": "^4.17.3"
   },
   "author": "Shashwat Singh",
   "license": "ISC"
