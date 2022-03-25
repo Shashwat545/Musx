@@ -9,6 +9,10 @@
   <a href="https://github.com/Shashwat545/Musx#Shashwat545"><img src="https://img.shields.io/github/last-commit/Shashwat545/Musx?style=for-the-badge"></a>
 </p><br/><br/>
 
+## :dart: Add the bot to your server
+
+If you are looking for a music bot for your Discord server then go ahead and [invite](https://discord.com/api/oauth2/authorize?client_id=952649023230197792&permissions=3155968&scope=bot) it from here. Visite the website [musx.me](https://musx.me) for more details about the bot.
+
 ## :zap: Commands
 ```powershell
 Basic commands:
@@ -34,7 +38,7 @@ npm@8.5.0 or higher
 git@2.25.1 or higher
 ```
 
-## :wrench: How to Use
+## :wrench: How to set up the bot locally for development
 
 From your command line, first clone and then configure the neccessary files and start the server.
 
@@ -45,4 +49,33 @@ $ git clone https://github.com/Shashwat545/Musx.git
 $ cd Musx
 # Install dependencies
 $ npm install
+# Rename .env_sample to .env and put your discord bot token inside it
+#After that we start the server
+$ node index.js
 ```
+
+## :technologist: Technologies used
+
+- [discord.js](https://discord.js.org/)
+- [discord-player](https://www.npmjs.com/package/discord-player)
+- [ffmpeg](https://ffmpeg.org/)
+- [ytdl-core](https://www.npmjs.com/package/ytdl-core)
+- [SpinKit](https://github.com/tobiasahlin/SpinKit) for bot website preloader
+- [ms](https://www.npmjs.com/package/ms)
+- [dotenv](https://www.npmjs.com/package/dotenv) for loading bot token as an environment variable
+
+## :page_facing_up: License
+
+This project is licensed under the GPL-3.0 License - see the [LICENSE.md](https://github.com/Shashwat545/Musx/blob/master/LICENSE) file for details
+
+## For the future
+
+If you want to contribute and make this much better for users, please have a look at the structure of the project and style of code to understand the working of the bot properly.
+
+If you can help me with these. Please don't hesitate to open a [pull request](https://github.com/Shashwat545/Musx/pulls).
+- Add a search command for song, after which user can select which one to play
+- Add a skip command to skip the currently playing song in queue
+
+If you created something awesome and want to contribute then feel free to open a [pull request](https://github.com/Shashwat545/Musx/pulls).
+
+Designed & Developed with ❤️ by [Shashwat Singh](https://github.com/Shashwat545)
