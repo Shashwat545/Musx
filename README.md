@@ -79,3 +79,7 @@ If you can help me with these. Please don't hesitate to open a [pull request](ht
 If you created something awesome and want to contribute then feel free to open a [pull request](https://github.com/Shashwat545/Musx/pulls).
 
 Designed & Developed with ❤️ by [Shashwat Singh](https://github.com/Shashwat545)
+
+<p align="center"><a href="https://github.com/Shashwat545/Musx#Shashwat545"><img src="https://github.com/Shashwat545/Musx/blob/master/Readme_assets/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
+<br/>
+<p align="center"><a href="https://github.com/Shashwat545/Musx#"><img src="https://github.com/Shashwat545/Musx/blob/master/Readme_assets/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
