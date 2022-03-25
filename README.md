@@ -57,11 +57,11 @@ $ node index.js
 ## :technologist: Technologies used
 
 - [discord.js](https://discord.js.org/)
-- [discord-player](https://www.npmjs.com/package/discord-player)
+- [discord-player](https://github.com/Androz2091/discord-player)
 - [ffmpeg](https://ffmpeg.org/)
-- [ytdl-core](https://www.npmjs.com/package/ytdl-core)
+- [ytdl-core](https://github.com/fent/node-ytdl-core)
 - [SpinKit](https://github.com/tobiasahlin/SpinKit) for bot website preloader
-- [ms](https://www.npmjs.com/package/ms)
+- [ms](https://github.com/vercel/ms)
 - [dotenv](https://www.npmjs.com/package/dotenv) for loading bot token as an environment variable
 
 ## :page_facing_up: License
