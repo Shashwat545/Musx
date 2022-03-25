@@ -1,5 +1,6 @@
 const {Client, Intents}=require('discord.js');
 const {Player}=require('discord-player');
+//Configure the .env_sample file with your own Discord bot token
 require('dotenv').config();
 global.client=new Client({
     intents: [

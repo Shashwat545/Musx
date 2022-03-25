@@ -1,3 +1,4 @@
+//This file loads up all the commands and sets up the bot
 const {readdirSync}=require('fs');
 const {Collection}=require('discord.js');
 client.commands=new Collection();

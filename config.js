@@ -1,8 +1,8 @@
 module.exports={
     app:{
-        prefix:'!',
+        prefix:'!', //Change the prefix of the bot commands from here
         token: process.env.DISCORD_BOT_API,
-        playing:'your favourite music by Shashwat ❤️',
+        status:'music ❤️', //Change the status of the bot
         discordPlayer:{
             ytdlOptions:{
                 quality:'highestaudio',
