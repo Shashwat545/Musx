@@ -9,6 +9,8 @@
   <a href="https://github.com/Shashwat545/Musx#Shashwat545"><img src="https://img.shields.io/github/last-commit/Shashwat545/Musx?style=for-the-badge"></a>
 </p><br/><br/>
 
+<p align="center"><a href="https://musx.me"><img src="https://github.com/Shashwat545/Musx/blob/master/Readme_assets/demo.gif" alt="demo"></a></p>
+
 ## :dart: Add the bot to your server
 
 If you are looking for a music bot for your Discord server then go ahead and [invite](https://discord.com/api/oauth2/authorize?client_id=952649023230197792&permissions=3155968&scope=bot) it from here. Visite the website [musx.me](https://musx.me) for more details about the bot.
