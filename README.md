@@ -83,6 +83,8 @@ If you created something awesome and want to contribute then feel free to open a
 
 Designed & Developed with ❤️ by [Shashwat Singh](https://github.com/Shashwat545)
 
+## Give this project a star :star: if you found it interesting
+
 <p align="center"><a href="https://github.com/Shashwat545/Musx#Shashwat545"><img src="https://github.com/Shashwat545/Musx/blob/master/Readme_assets/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
 <br/>
 <p align="center"><a href="https://github.com/Shashwat545/Musx#"><img src="https://github.com/Shashwat545/Musx/blob/master/Readme_assets/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
