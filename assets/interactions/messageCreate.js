@@ -2,7 +2,7 @@ module.exports=(client, message)=>{
     if(message.channel.type==='dm'||message.author.bot)
         return;
     const prefix=client.config.app.prefix;
-    if(message.content.indexOf(prefix)!==0)
+    if(message.content.indexOf(prefix)!==0 || message.content.length===1)
         return;
     const query=message.content.slice(prefix.length).trim().split(/ +/g);
     const command=query.shift().toLowerCase();
